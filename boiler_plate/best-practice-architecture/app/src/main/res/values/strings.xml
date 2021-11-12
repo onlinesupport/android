@@ -1,0 +1,34 @@
+<resources>
+    <string name="all_appName">Android Boilerplate</string>
+    <string name="all_appDetail">Android Boilerplate</string>
+    <string name="all_yes">Yes</string>
+    <string name="all_no">No</string>
+
+    <string name="dummy_shortText">Foo bar baz tar</string>
+
+    <string name="splash_logoDescription">App Logo</string>
+    <string name="splash_welcome">WELCOME</string>
+    <string name="splash_permissionRequestsIgnored">Please allow all permissions</string>
+
+    <string name="login_title">LOGIN</string>
+    <string name="login_logoDescription">App Logo</string>
+    <string name="login_labelUsername">Username</string>
+    <string name="login_labelPassword">Password</string>
+    <string name="login_labelLogin">LOGIN</string>
+    <string name="login_errorUsernameRequired">This value is required</string>
+    <string name="login_errorPasswordRequired">This value is required</string>
+
+    <string name="dashboard_confirmLogOut">Are you sure want to log out ?</string>
+    <string name="dashboard_title">@string/all_appName</string>
+    <string name="dashboard_navDrawerOpen">Open navigation drawer</string>
+    <string name="dashboard_navDrawerClose">Close navigation drawer</string>
+
+    <string name="setting_title">Settings</string>
+    <string name="setting_titleBaseUrl">Base URL</string>
+    <string name="setting_summaryBaseUrl">Provide base URL for this app</string>
+    <string name="setting_titleSplashTimeOut">Splash Time Out</string>
+    <string name="setting_summarySplashTimeOut">Set splash screen time out</string>
+
+    <string name="information_title">Info</string>
+
+</resources>
